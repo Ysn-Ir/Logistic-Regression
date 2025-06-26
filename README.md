@@ -85,7 +85,7 @@ Accuracy: 99.85%
 
 Below is an example plot showing the decision boundary learned by the logistic regression model:
 
-![Logistic Regression Decision Boundary](logistic_decision_boundary.png)
+![Logistic Regression Decision Boundary](Figure1.png)
 
 ---
 
